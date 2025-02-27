@@ -1,2 +1,1 @@
-# Agrify
-Crop recommendation model
+**Crop Recommendation Model**
